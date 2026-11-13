@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="270" viewBox="0 0 520 270" role="img" aria-labelledby="title desc">
+  <title id="title">Defensive security lab visual</title>
+  <desc id="desc">An animated defensive security simulation with a shield, scanning beam, and protected network nodes.</desc>
+  <defs>
+    <radialGradient id="lab" cx="50%" cy="44%"><stop offset="0" stop-color="#7f1d1d" stop-opacity="0.6"/><stop offset="0.55" stop-color="#172554"/><stop offset="1" stop-color="#020617"/></radialGradient>
+    <style>
+      .mono { font-family: "SFMono-Regular", Consolas, monospace; }
+      .scan { animation: scan 3.6s ease-in-out infinite; }
+      .shield { animation: shield 2.4s ease-in-out infinite; transform-origin: 260px 138px; }
+      .node { animation: node 1.6s ease-in-out infinite alternate; }
+      @keyframes scan { 0%, 100% { transform: translateY(-57px); opacity: 0; } 18% { opacity: 0.9; } 82% { opacity: 0.9; } }
+      @keyframes shield { 0%, 100% { transform: scale(0.98); } 50% { transform: scale(1.04); } }
+      @keyframes node { from { opacity: 0.2; } to { opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="520" height="270" rx="22" fill="url(#lab)"/>
+  <g stroke="#fb7185" stroke-opacity="0.35" stroke-width="1"><path d="M70 152L180 113L260 138L340 106L452 150"/><path d="M70 152L172 203L260 138L354 203L452 150"/><path d="M180 113L172 203M340 106L354 203"/></g>
+  <g class="node" fill="#fca5a5"><circle cx="70" cy="152" r="5"/><circle cx="180" cy="113" r="5"/><circle cx="340" cy="106" r="5"/><circle cx="452" cy="150" r="5"/><circle cx="172" cy="203" r="5"/><circle cx="354" cy="203" r="5"/></g>
+  <g class="shield"><path d="M260 82l52 22v39c0 35-23 55-52 68-29-13-52-33-52-68v-39z" fill="#0f172a" stroke="#67e8f9" stroke-width="3"/><path d="M260 100l34 14v27c0 23-14 38-34 49-20-11-34-26-34-49v-27z" fill="#0b7285" fill-opacity="0.35"/><path d="M240 138l14 14 28-31" fill="none" stroke="#a7f3d0" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <rect class="scan" x="48" y="138" width="424" height="3" fill="#fb7185"/>
+  <text x="24" y="36" class="mono" font-size="13" fill="#fee2e2" letter-spacing="2">AUTHORIZED SECURITY LAB</text>
+  <text x="24" y="248" class="mono" font-size="13" fill="#cbd5e1">detect → isolate → recover · defensive simulation</text>
+</svg>

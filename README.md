@@ -128,6 +128,41 @@ flowchart LR
 
 The goal is a clear path from user need to dependable software: usable interfaces, explicit contracts, protected data, and observable delivery.
 
+## Visual lab
+
+These original, self-hosted SVG scenes turn the engineering themes into small visual stories. They are decorative portfolio samples—not claims of live product telemetry.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tech.wesharewithlove.org/portfolio/school-management"><img src="./assets/timechange.svg" alt="Time-aware systems animation" width="520" /></a>
+      <p><strong>Time-aware systems</strong><br />Designed for workflows that keep working as the day, users, and operating conditions change.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tech.wesharewithlove.org/portfolio/hospital-management"><img src="./assets/waterfall-code.svg" alt="Waterfall code and data stream animation" width="520" /></a>
+      <p><strong>Data waterfall</strong><br />A visual metaphor for events, APIs, records, logs, and dependable responses.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tech.wesharewithlove.org/portfolio/erp"><img src="./assets/security-lab.svg" alt="Defensive security lab animation" width="520" /></a>
+      <p><strong>Defensive security lab</strong><br />An authorized security simulation: detect, isolate, recover, and document.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tech.wesharewithlove.org/portfolio/point-of-sale"><img src="./assets/code-vortex.svg" alt="Full-stack code vortex animation" width="520" /></a>
+      <p><strong>Full-stack code vortex</strong><br />Interfaces, APIs, data, authentication, testing, and operations moving as one system.</p>
+    </td>
+  </tr>
+</table>
+
+### 567-day build challenge
+
+<p align="center">
+  <img src="./assets/streak-567.svg" alt="567-day build challenge, day 1 of 567" width="520" />
+</p>
+
+This is a personal challenge launched on 13 November 2026. The 567 figure is a future target, while the live GitHub contribution statistics above remain unmodified and truthful.
+
 ## Selected public work
 
 | Project | What it demonstrates |

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="270" viewBox="0 0 520 270" role="img" aria-labelledby="title desc">
+  <title id="title">Waterfall code visual</title>
+  <desc id="desc">Animated streams of code flow through a dark data pipeline visual.</desc>
+  <defs>
+    <linearGradient id="water" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06141d"/><stop offset="1" stop-color="#073b4c"/></linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset="0.5" stop-color="#67e8f9" stop-opacity="0.85"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+    <style>
+      .mono { font-family: "SFMono-Regular", Consolas, monospace; }
+      .stream1 { animation: fall 3.2s linear infinite; }
+      .stream2 { animation: fall 4.6s linear 0.8s infinite; }
+      .stream3 { animation: fall 3.8s linear 1.2s infinite; }
+      .stream4 { animation: fall 5.1s linear 0.3s infinite; }
+      .pulse { animation: pulse 1.8s ease-in-out infinite alternate; }
+      @keyframes fall { from { transform: translateY(-230px); opacity: 0; } 12% { opacity: 0.9; } 88% { opacity: 0.9; } to { transform: translateY(230px); opacity: 0; } }
+      @keyframes pulse { from { opacity: 0.32; } to { opacity: 0.9; } }
+    </style>
+  </defs>
+  <rect width="520" height="270" rx="22" fill="url(#water)"/>
+  <path d="M0 63H520M0 207H520" stroke="#67e8f9" stroke-opacity="0.14"/>
+  <g class="mono" font-size="14" fill="#67e8f9" opacity="0.7">
+    <g class="stream1"><text x="44" y="80">0101 1010</text><text x="44" y="114">const data = await</text><text x="44" y="148">{ ok: true }</text><text x="44" y="182">return secure</text></g>
+    <g class="stream2" fill="#a7f3d0"><text x="198" y="62">GET /events</text><text x="198" y="96">SELECT * FROM</text><text x="198" y="130">trace_id = 7f2a</text><text x="198" y="164">200 OK</text></g>
+    <g class="stream3" fill="#fbbf24"><text x="352" y="84">POST /api</text><text x="352" y="118">validate(input)</text><text x="352" y="152">audit.log()</text><text x="352" y="186">ship()</text></g>
+    <g class="stream4" fill="#c4b5fd"><text x="444" y="72">&gt;_</text><text x="444" y="106">&gt;_</text><text x="444" y="140">&gt;_</text><text x="444" y="174">&gt;_</text></g>
+  </g>
+  <rect class="pulse" x="20" y="15" width="480" height="2" fill="url(#fade)"/>
+  <text x="24" y="39" class="mono" font-size="13" fill="#e0f2fe" letter-spacing="2">DATA · EVENTS · LOGS</text>
+  <text x="24" y="248" class="mono" font-size="13" fill="#94a3b8">stream in → systems respond</text>
+</svg>
