@@ -104,10 +104,6 @@ Across these systems, the recurring engineering themes are role-based workflows,
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maina1-ke&theme=transparent&hide_border=true&ring=0b7285&fire=f59e0b&currStreakLabel=0b7285" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maina1-ke&bg_color=00000000&color=0b7285&line=0b7285&point=f59e0b&area=true&hide_border=true" alt="GitHub activity graph" />
 </p>
 
