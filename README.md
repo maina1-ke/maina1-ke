@@ -20,6 +20,14 @@ I build practical digital products and secure systems—from responsive interfac
 
 </div>
 
+## Terminal signal
+
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Animated terminal showing Joe Maina's engineering focus" width="900" />
+</p>
+
+<p align="center"><sub>Turning real operational problems into secure, maintainable systems.</sub></p>
+
 ## About
 
 I am a software engineer focused on turning real operational needs into maintainable, secure technology. My work spans full-stack development, backend and API design, systems engineering, security-minded delivery, and practical automation.
@@ -104,6 +112,21 @@ Across these systems, the recurring engineering themes are role-based workflows,
 </p>
 
 The panels above are live views of public GitHub activity and may change as the account grows.
+
+## Architecture lens
+
+```mermaid
+flowchart LR
+  P[People and operations] --> UI[Responsive interfaces]
+  UI --> API[Secure APIs]
+  API --> DB[(PostgreSQL)]
+  API --> OPS[DevOps and observability]
+  SEC[Security and audit] -.-> UI
+  SEC -.-> API
+  SEC -.-> OPS
+```
+
+The goal is a clear path from user need to dependable software: usable interfaces, explicit contracts, protected data, and observable delivery.
 
 ## Selected public work
 
