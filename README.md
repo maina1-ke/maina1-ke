@@ -1,6 +1,10 @@
 <div align="center">
 
-# Joe Maina (Courtesy)
+# Joe Maina
+
+<img src="https://github.com/maina1-ke.png" alt="Joe Maina" width="140" />
+
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0B7285&center=true&vCenter=true&width=760&lines=Secure+full-stack+systems;Cybersecurity+%26+DevOps;Building+useful+technology" alt="Animated typing banner" /></a>
 
 ### Software Engineer · Full-Stack Systems · Cybersecurity · DevOps
 
@@ -8,7 +12,7 @@ I build practical digital products and secure systems—from responsive interfac
 
 <p>
   <a href="https://tech.wesharewithlove.org/"><img src="https://img.shields.io/badge/Website-Cosynco%20Solutions-0b7285?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://github.com/Jose-maina"><img src="https://img.shields.io/badge/GitHub-Jose--maina-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/maina1-ke"><img src="https://img.shields.io/badge/GitHub-maina1--ke-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.instagram.com/maina1_ke"><img src="https://img.shields.io/badge/Instagram-maina1__ke-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.facebook.com/maina1.ke/"><img src="https://img.shields.io/badge/Facebook-maina1.ke-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://wa.me/maina1_ke"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
@@ -48,6 +52,19 @@ Explore the live work at [tech.wesharewithlove.org](https://tech.wesharewithlove
 
 The workspace also contains a separate learning-platform project with a React/Vite frontend and a Django/Python/PostgreSQL backend, covering API-driven application design, authentication, data modeling, and a practical developer workflow.
 
+## Product and system blueprints
+
+The Cosynco Solutions workspace documents a broad set of system blueprints and portfolio builds. They are grouped here as examples of the business problems I design software around—not as unsupported claims that every deployment is publicly available.
+
+- **Education:** School Management, Library Management, Attendance System
+- **Healthcare:** Hospital Management, Pharmacy Management
+- **Retail and hospitality:** Point of Sale, Inventory Management, Hotel Management, Booking System
+- **People and operations:** Payroll Management, HR Management, CRM, ERP
+- **Property and logistics:** Rental & Property Management, Fleet Management
+- **Community:** Church Management
+
+Across these systems, the recurring engineering themes are role-based workflows, records and reporting, payments or billing, auditability, responsive interfaces, API-driven services, PostgreSQL data models, and secure operational handover.
+
 ## Technology toolbox
 
 <p>
@@ -76,9 +93,9 @@ The workspace also contains a separate learning-platform project with a React/Vi
 | Project | What it demonstrates |
 | --- | --- |
 | [Cosynco Solutions website](https://tech.wesharewithlove.org/) | Production full-stack web platform, responsive UI, content workflows, PostgreSQL, SEO, and security controls. |
-| [API](https://github.com/Jose-maina/API) | Original repository reserved for API-focused work and documentation. |
-| [josejsanimation](https://github.com/Jose-maina/josejsanimation) | Early front-end work with HTML, CSS, JavaScript, animation, and interactive layout. |
-| [listinglabhtml](https://github.com/Jose-maina/listinglabhtml) | Multi-page HTML/CSS interface and listing-oriented front-end practice. |
+| [API](https://github.com/maina1-ke/API) | Original repository reserved for API-focused work and documentation. |
+| [josejsanimation](https://github.com/maina1-ke/josejsanimation) | Early front-end work with HTML, CSS, JavaScript, animation, and interactive layout. |
+| [listinglabhtml](https://github.com/maina1-ke/listinglabhtml) | Multi-page HTML/CSS interface and listing-oriented front-end practice. |
 
 Some repositories on this account are forks maintained for learning, reference, or experimentation. Forked projects remain clearly attributed to their original authors.
 
