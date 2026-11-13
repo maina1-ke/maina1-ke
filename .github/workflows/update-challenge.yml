@@ -2,8 +2,8 @@ name: Update Build Challenge SVG
 
 on:
   schedule:
-    # Runs daily at 00:05 UTC (03:05 AM EAT)
-    - cron: "5 0 * * *"
+    # Runs daily at 21:00 UTC (00:00 midnight EAT, UTC+3)
+    - cron: "0 21 * * *"
   workflow_dispatch:
 
 permissions:
