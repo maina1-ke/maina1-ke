@@ -88,6 +88,23 @@ Across these systems, the recurring engineering themes are role-based workflows,
 
 **Security and engineering:** secure coding, application security, API security, vulnerability awareness, Linux administration, system auditing, network fundamentals, testing, documentation, and incident-aware thinking.
 
+## GitHub at a glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maina1-ke&show_icons=true&hide_border=true&title_color=0b7285&icon_color=0b7285&text_color=334155&bg_color=00000000" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina1-ke&layout=compact&hide_border=true&title_color=0b7285&text_color=334155&bg_color=00000000" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maina1-ke&theme=transparent&hide_border=true&ring=0b7285&fire=f59e0b&currStreakLabel=0b7285" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maina1-ke&bg_color=00000000&color=0b7285&line=0b7285&point=f59e0b&area=true&hide_border=true" alt="GitHub activity graph" />
+</p>
+
+The panels above are live views of public GitHub activity and may change as the account grows.
+
 ## Selected public work
 
 | Project | What it demonstrates |
