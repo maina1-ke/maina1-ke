@@ -155,13 +155,13 @@ These original, self-hosted SVG scenes turn the engineering themes into small vi
   </tr>
 </table>
 
-### 567-day build challenge
+### 1200-day build challenge
 
 <p align="center">
-  <img src="./assets/streak-567.svg" alt="567-day build challenge, day 1 of 567" width="520" />
+  <img src="./assets/challenge.svg" alt="1200-day build challenge, day 567 of 1200" width="520" />
 </p>
 
-This is a personal challenge launched on 13 November 2026. The 567 figure is a future target, while the live GitHub contribution statistics above remain unmodified and truthful.
+This personal challenge started on 26 April 2025. The card updates daily through GitHub Actions; the live GitHub contribution statistics above remain unmodified and truthful.
 
 ## Selected public work
 
