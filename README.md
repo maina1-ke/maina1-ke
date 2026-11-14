@@ -6,9 +6,9 @@
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0B7285&center=true&vCenter=true&width=760&lines=Secure+full-stack+systems;Cybersecurity+%26+DevOps;Building+useful+technology" alt="Animated typing banner" /></a>
 
-### Software Engineer · Full-Stack Systems · Cybersecurity · DevOps
+### Software Engineer · Cybersecurity Specialist · Ethical Hacker · Systems Auditor · DevOps
 
-I build practical digital products and secure systems—from responsive interfaces and APIs to data-backed platforms, infrastructure, and security controls.
+I build practical digital products and secure systems—from responsive interfaces and APIs to data-backed platforms, infrastructure, security controls, and audit-ready operations.
 
 <p>
   <a href="https://tech.wesharewithlove.org/"><img src="https://img.shields.io/badge/Website-Cosynco%20Solutions-0b7285?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
@@ -30,21 +30,23 @@ I build practical digital products and secure systems—from responsive interfac
 
 ## About
 
-I am a software engineer focused on turning real operational needs into maintainable, secure technology. My work spans full-stack development, backend and API design, systems engineering, security-minded delivery, and practical automation.
+I am a software engineer and cybersecurity specialist focused on turning real operational needs into maintainable, secure technology. My work spans full-stack development, backend and API design, systems engineering, ethical hacking, system auditing, security-minded delivery, and practical automation.
 
-I enjoy moving across the stack: understanding the problem, shaping the architecture, implementing the interface and services, securing the system, and making the result useful for the people who depend on it.
+I enjoy moving across the stack: understanding the problem, shaping the architecture, implementing the interface and services, testing and hardening the system, auditing controls, and making the result useful for the people who depend on it.
 
 ## What I build
 
 - **Full-stack products:** responsive web applications, dashboards, content systems, and business workflows.
 - **Backend and APIs:** typed service layers, REST APIs, validation, authentication flows, data access, and integrations.
-- **Secure systems:** security hardening, secure coding, ethical-hacking practice, system reviews, threat-aware design, and audit-minded controls.
+- **Cybersecurity and assurance:** authorized ethical-hacking practice, security testing, vulnerability awareness, secure coding, system auditing, access-control reviews, threat-aware design, and audit-minded controls.
 - **Delivery and operations:** Linux environments, deployments, containerized workflows, observability, reliability, and DevOps practices.
 - **Developer experience:** clear documentation, reusable components, maintainable code, and fast feedback loops—including responsible use of AI-assisted “vibe coding” with human review.
 
-## Current focus
+## Portfolio focus
 
-### Cosynco Solutions website
+Cosynco Solutions is one current product in a wider portfolio of 40+ projects, prototypes, internal systems, security exercises, visual experiments, and system blueprints. Some work is private, client-facing, or still being refined, so this profile highlights the engineering themes and outcomes without pretending every build is a public repository.
+
+### Cosynco Solutions website — one current build
 
 I am building and maintaining the Cosynco Solutions web platform, a production-oriented TanStack Start application with:
 
@@ -60,9 +62,19 @@ Explore the live work at [tech.wesharewithlove.org](https://tech.wesharewithlove
 
 The workspace also contains a separate learning-platform project with a React/Vite frontend and a Django/Python/PostgreSQL backend, covering API-driven application design, authentication, data modeling, and a practical developer workflow.
 
+### Broader project portfolio
+
+- **Business and operations:** school management, library management, attendance, point of sale, inventory, hotel management, booking, payroll, HR, CRM, ERP, rental management, property management, fleet management, church management, business dashboards, and workflow automation.
+- **Healthcare and records:** hospital management, pharmacy management, health-suite platforms, patient and records workflows, reporting dashboards, and data-backed administrative tools.
+- **Security and infrastructure:** API-security systems, secure API design, cybersecurity labs, authorized ethical-hacking exercises, vulnerability-assessment workflows, system-audit tooling, network-security practice, Linux hardening, access-control reviews, and incident-aware operations.
+- **Developer platforms and services:** CodeForge, API experiments, authentication services, role-based access control, database-backed services, integrations, automation scripts, DevOps pipelines, GitHub workflows, and deployment tooling.
+- **Frontend and visual engineering:** responsive business websites, landing pages, admin interfaces, portfolio experiences, JavaScript animations, time-aware interfaces, data-waterfall visualizations, security simulations, code-vortex scenes, and interactive UI experiments.
+
+This breadth reflects how I work: I can take a problem from discovery and system design through manual coding, responsible AI-assisted development, security review, deployment, documentation, and ongoing improvement.
+
 ## Product and system blueprints
 
-The Cosynco Solutions workspace documents a broad set of system blueprints and portfolio builds. They are grouped here as examples of the business problems I design software around—not as unsupported claims that every deployment is publicly available.
+My portfolio documents a broad set of system blueprints and project builds. They are grouped here as examples of the business problems I design software around—not as unsupported claims that every deployment is publicly available.
 
 - **Education:** School Management, Library Management, Attendance System
 - **Healthcare:** Hospital Management, Pharmacy Management
@@ -94,8 +106,20 @@ Across these systems, the recurring engineering themes are role-based workflows,
 
 **Languages and foundations:** Python, JavaScript, TypeScript, Java, C, C++, C#, PHP, Go, Rust, HTML, CSS, SQL, Bash.
 
-**Security and engineering:** secure coding, application security, API security, vulnerability awareness, Linux administration, system auditing, network fundamentals, testing, documentation, and incident-aware thinking.
+**Cybersecurity and engineering:** cybersecurity fundamentals, authorized ethical hacking, application security, API security, vulnerability assessment, security testing, Linux administration, system auditing, network fundamentals, access controls, hardening, testing, documentation, and incident-aware thinking.
 
+## GitHub at a glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maina1-ke&show_icons=true&hide_border=true&title_color=0b7285&icon_color=0b7285&text_color=334155&bg_color=00000000" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina1-ke&layout=compact&hide_border=true&title_color=0b7285&text_color=334155&bg_color=00000000" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maina1-ke&bg_color=00000000&color=0b7285&line=0b7285&point=f59e0b&area=true&hide_border=true" alt="GitHub activity graph" />
+</p>
+
+The panels above are live views of public GitHub activity and may change as the account grows.
 
 ## Architecture lens
 
