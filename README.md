@@ -102,6 +102,31 @@ My portfolio documents a broad set of system blueprints and project builds. They
 
 Across these systems, the recurring engineering themes are role-based workflows, records and reporting, payments or billing, auditability, responsive interfaces, API-driven services, PostgreSQL data models, and secure operational handover.
 
+## Portfolio projects
+
+The complete portfolio is now represented here on GitHub as a linked project catalogue. Each entry opens its live Cosynco Solutions project page:
+
+| Project | Portfolio page |
+| --- | --- |
+| School Management | [Open project](https://tech.wesharewithlove.org/portfolio/school-management) |
+| Hospital Management | [Open project](https://tech.wesharewithlove.org/portfolio/hospital-management) |
+| Inventory Management | [Open project](https://tech.wesharewithlove.org/portfolio/inventory-management) |
+| Point of Sale | [Open project](https://tech.wesharewithlove.org/portfolio/point-of-sale) |
+| Payroll Management | [Open project](https://tech.wesharewithlove.org/portfolio/payroll-management) |
+| Hotel Management | [Open project](https://tech.wesharewithlove.org/portfolio/hotel-management) |
+| Church Management | [Open project](https://tech.wesharewithlove.org/portfolio/church-management) |
+| Rental & Property Management | [Open project](https://tech.wesharewithlove.org/portfolio/rental-management) |
+| Pharmacy Management | [Open project](https://tech.wesharewithlove.org/portfolio/pharmacy-management) |
+| Library Management | [Open project](https://tech.wesharewithlove.org/portfolio/library-management) |
+| HR Management | [Open project](https://tech.wesharewithlove.org/portfolio/hr-management) |
+| CRM | [Open project](https://tech.wesharewithlove.org/portfolio/crm) |
+| ERP (full suite) | [Open project](https://tech.wesharewithlove.org/portfolio/erp) |
+| Attendance System | [Open project](https://tech.wesharewithlove.org/portfolio/attendance) |
+| Fleet Management | [Open project](https://tech.wesharewithlove.org/portfolio/fleet-management) |
+| Booking System | [Open project](https://tech.wesharewithlove.org/portfolio/booking-system) |
+
+These are portfolio project pages and system blueprints. The implementation repositories remain private or separate unless a public source repository is linked below.
+
 ## Technology toolbox
 
 <p>
