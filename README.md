@@ -72,6 +72,23 @@ The workspace also contains a separate learning-platform project with a React/Vi
 
 This breadth reflects how I work: I can take a problem from discovery and system design through manual coding, responsible AI-assisted development, security review, deployment, documentation, and ongoing improvement.
 
+## Project atlas
+
+My Codex work history covers 40+ builds, iterations, and project workstreams. Representative systems include:
+
+- **PalsFund:** a group-savings and personal-savings platform with group withdrawals, approval workflows, reporting, PostgreSQL migrations, cPanel deployment, and an Android release package.
+- **GOK Hotels System:** a role-aware hotel operations portal with staff workflows, collections, responsive dashboards, theme modes, and deployment verification.
+- **Wanjema Cyber:** a Kenyan digital-service-centre experience with a destination gateway, cyber-services pages, training content, Knowledge Centre resources, portfolio galleries, and responsive visual design.
+- **Company Hub Pro:** an internal operations platform covering employees, role and privilege management, purchase requests/LPOs, inventory links, approvals, messaging, email notifications, 2FA, activity history, and device/privacy workflows.
+- **Raigways Tyres ERP:** inventory, point of sale, suppliers, purchases, reports, barcode workflows, M-Pesa/cash/bank payment handling, persistent data, staff approvals, and configurable privileges.
+- **Kingdom Connect / Church Management:** a church-management system explored across React and Flask/Jinja implementations, with role-aware dashboards and deployment-safe startup workflows.
+- **ISP Billing:** customer and admin portals connected to real PPPoE/MikroTik data, live connection status, router monitoring, usage visibility, alerts, and operational synchronization.
+- **Library Management:** a React/Vite and Express/Prisma learning-library experience with authentication, dashboard data, responsive UI, and catalogue-oriented workflows.
+- **Booking Management:** booking workflows with auditor and customer roles, dashboard interfaces, access controls, and operational reporting.
+- **Automation and security work:** WhatsApp bot deployment and multi-account research, API-security systems, application-security reviews, ethical-hacking exercises, system-audit work, and secure deployment preparation.
+
+These are alongside the live [Cosynco Solutions blueprint portfolio](https://tech.wesharewithlove.org/portfolio), which currently presents sixteen adaptable systems across education, healthcare, retail, hospitality, HR, faith organisations, property, sales, enterprise operations, transport, and services.
+
 ## Product and system blueprints
 
 My portfolio documents a broad set of system blueprints and project builds. They are grouped here as examples of the business problems I design software around—not as unsupported claims that every deployment is publicly available.
