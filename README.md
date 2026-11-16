@@ -74,7 +74,7 @@ This breadth reflects how I work: I can take a problem from discovery and system
 
 ## Project atlas
 
-My Codex work history covers 40+ builds, iterations, and project workstreams. Representative systems include:
+My portfolio covers 40+ builds, iterations, and project workstreams. Representative systems include:
 
 - **PalsFund:** a group-savings and personal-savings platform with group withdrawals, approval workflows, reporting, PostgreSQL migrations, cPanel deployment, and an Android release package.
 - **GOK Hotels System:** a role-aware hotel operations portal with staff workflows, collections, responsive dashboards, theme modes, and deployment verification.
